@@ -1,0 +1,16 @@
+body
+{
+    background-image: url(/image/Untitled\ design\ \(4\).png);
+
+}
+button {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+   height: 10%;
+   width: auto;
+   
+   background-color: rgb(255, 255, 255);
+   transform: translateY(619px);
+   width: 100%;
+  }

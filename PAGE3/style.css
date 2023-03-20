@@ -1,0 +1,23 @@
+body
+{
+    background-image: url(/image/Untitled\ design\ \(6\).png);
+
+}
+img {
+    transform: translate(400px);
+}
+.G{
+   text-align: center;
+  transform: translateY(500PX);
+  position: absolute;
+  right: 650px;
+  
+}
+
+h3 {
+    color: darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
